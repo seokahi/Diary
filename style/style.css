@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@700;800&family=Roboto&family=Song+Myung&display=swap');
+
+* {
+    font-family: 'Gothic A1', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Song Myung', serif; 
+}
+
+/*  reset.css */
+body,h2,button,ul {
+    padding:0;
+    margin:0;
+    list-style:none;
+}
+
+body {
+    width: 100%;
+}
+.container {
+    width:800px;
+    margin:50px auto;
+}
+
+.txt-list {
+    text-align: center;
+    font-size: 100px;
+    background-color:white;
+    margin-bottom: 40px;
+
+}
+
+.inp-tit {
+    width:100%;
+    border:2px solid gray;
+    font-size:20px;
+    padding:20px;
+    box-sizing: border-box;
+    margin-bottom:30px;
+}
+
+.inp-list {
+    width:100%;
+    min-height: 300px;
+    border:2px solid gray;
+    font-size:20px;
+    padding:20px 20px 250px;
+    box-sizing: border-box;
+    word-break: break-word;
+    margin-bottom:30px;
+}
+
+.btn-inp {
+    width:100%;
+    border:2px  solid gray;
+    text-align:center;
+    background-color: cadetblue;
+    padding:15px;
+    font-size:20px;
+    font-weight: bold;
+    margin-bottom:40px;
+}
+
+.list-diary {
+    width:100%;
+    min-height: 450px;
+    border:2px solid gray;
+    padding:20px 20px 250px;
+    box-sizing: border-box;
+    margin-bottom:30px;
+}
+
+.btn-rem {
+    width:100%;
+    border:2px  solid gray;
+    text-align:center;
+    background-color: rgb(247, 225, 131);
+    padding:15px;
+    font-size:20px;
+    font-weight: bold;
+    margin-bottom:40px;
+}
+
+.list-food li {
+    text-align: left;
+    font-weight: bold;
+}
+
+
+/* .txt-list {
+    margin:20px;
+    padding:20px;
+
+}
+
+.inp-list {
+    width:300px;
+    height:30px;
+    border:3px solid black;
+    border-radius: 10px;
+    color: black;
+    font-weight:bold;
+    padding:4px;
+}
+
+.btn-inp {
+    width:70px;
+    height: 40px;
+    padding:10px;
+    border:3px solid black;
+    border-radius: 10px;
+    float:right;
+    text-align:center;
+    margin-right:10px;
+    background-color:white;
+    font-weight:bold;
+}
+
+.txt-eat {
+    margin: 30px;
+}
+.list-food li {
+    text-align: left;
+    font-weight: bold;
+}
+
+.btn-rem{
+    position: absolute;
+    bottom:20px;
+    right:20px;
+    width:100px;
+    height: 40px;
+    padding:10px;
+    background-color: rgb(114, 214, 114);
+    border-radius: 10px;
+    color:white;
+} */
